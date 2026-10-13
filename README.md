@@ -187,7 +187,7 @@ Click a preview to open the live project or project repository.
   <table width="100%">
     <tr>
       <td align="center" width="25%">
-        <img height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJpdjQxczlvNXk3bHBrNmZ1NDg4OHIycjk3dnZxb2Y2eWR6ZXBqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SkGYWnhHJw1TFfTfhM/giphy.gif" alt="Rem from Re:Zero animated wink" /><br />
+        <img height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc4eXdqYmRoc2psYW8wbHQ4cWJicm5qcjEzanA0d3dnZXFncTg4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mg3GmF91q0w2wMJBES/giphy.gif" alt="Rem from Re:Zero animated wink" /><br />
         <sub>Rem · Re:Zero</sub>
       </td>
       <td align="center" width="25%">
