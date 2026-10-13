@@ -199,7 +199,7 @@ Click a preview to open the live project or project repository.
         <sub>Tanjiro · Demon Slayer</sub>
       </td>
       <td align="center" width="25%">
-        <img height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHoydGZ2aDVtNDg0ZDU3dGF6M3hxdG1pdDl3azg0eTBqeWZrNzU2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mJhSLBmVtCw4D8eVm3/giphy.gif" alt="Gojo from Jujutsu Kaisen preparing a technique" /><br />
+        <img height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNyOGVrYmkwbG1zb3F5eW8zMjdrcGtzcjJ4ZG0yZ3ZncnQ3MmZmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WldPA6tzPPSgZDxiJc/giphy.gif" alt="Gojo from Jujutsu Kaisen preparing a technique" /><br />
         <sub>Gojo · Jujutsu Kaisen</sub>
       </td>
     </tr>
