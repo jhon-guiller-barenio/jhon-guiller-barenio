@@ -267,12 +267,6 @@ Click a preview to open the live project or project repository.
     src="https://streak-stats.demolab.com?user=jhon-guiller-barenio&theme=dark&hide_border=true&background=090d18&ring=ec4899&fire=f472b6&currStreakLabel=f9a8d4"
     alt="GitHub contribution streak"
   />
-  <br />
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jhon-guiller-barenio&bg_color=090d18&color=f472b6&line=ec4899&point=ffffff&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-  />
 </div>
 
 <div align="center">
