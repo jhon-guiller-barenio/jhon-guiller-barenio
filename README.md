@@ -9,10 +9,10 @@
   <p>Turning ideas into useful, polished digital experiences.</p>
 
   <a href="https://jhon-guiller-barenio-portfiolio-v2.vercel.app/">
-    <img src="https://img.shields.io/badge/OPEN_PORTFOLIO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio" />
+    <img src="https://img.shields.io/badge/OPEN_PORTFOLIO-ec4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio" />
   </a>
   <a href="https://github.com/jhon-guiller-barenio?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-172554?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-4a1942?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
   </a>
   <br />
   <p>
@@ -21,12 +21,12 @@
     <a href="https://cafe-noir-xi.vercel.app/">Cafe Noir</a> ·
     <a href="https://github.com/jhon-guiller-barenio/Hotel-Reservations">Hotel Reservations</a>
   </p>
-  <p>
-    <a href="#-developer-profile">About</a> ·
-    <a href="#-toolbox">Tech Stack</a> ·
-    <a href="#-project-gallery">Projects</a> ·
-    <a href="#-anime-corner">Anime Corner</a> ·
-    <a href="#-github-dashboard">GitHub Activity</a>
+  <p align="center">
+    <a href="#-developer-profile"><img src="https://img.shields.io/badge/%F0%9F%8C%B8%20ABOUT-4a1942?style=for-the-badge" alt="About me" /></a>
+    <a href="#-toolbox"><img src="https://img.shields.io/badge/TOOLBOX-6b315f?style=for-the-badge" alt="Tech toolbox" /></a>
+    <a href="#-project-gallery"><img src="https://img.shields.io/badge/PROJECTS-d9468f?style=for-the-badge" alt="Project gallery" /></a>
+    <a href="#-anime-corner"><img src="https://img.shields.io/badge/ANIME-9d4edd?style=for-the-badge" alt="Anime corner" /></a>
+    <a href="#-github-dashboard"><img src="https://img.shields.io/badge/GITHUB_ACTIVITY-ec4899?style=for-the-badge" alt="GitHub activity" /></a>
   </p>
   <p>
     <img src="https://img.shields.io/github/followers/jhon-guiller-barenio?label=GitHub%20followers&style=flat-square&color=ec4899" alt="GitHub followers" />
@@ -128,7 +128,7 @@ Click a preview to open the live project or project repository.
       </a>
       <p>A responsive portfolio with theme switching, motion, skills, and project showcases.</p>
       <a href="https://jhon-guiller-barenio-portfiolio-v2.vercel.app/">
-        <img src="https://img.shields.io/badge/OPEN_PORTFOLIO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio" />
+        <img src="https://img.shields.io/badge/OPEN_PORTFOLIO-ec4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -138,10 +138,10 @@ Click a preview to open the live project or project repository.
       </a>
       <p>A lesson hub with grammar, vocabulary, and pronunciation practice.</p>
       <a href="https://versa-learning.vercel.app/">
-        <img src="https://img.shields.io/badge/LIVE_DEMO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open VERSA Learning" />
+        <img src="https://img.shields.io/badge/LIVE_DEMO-d9468f?style=for-the-badge&logo=vercel&logoColor=white" alt="Open VERSA Learning" />
       </a>
       <a href="https://github.com/jhon-guiller-barenio/VERSA-Learning">
-        <img src="https://img.shields.io/badge/SOURCE-172554?style=for-the-badge&logo=github&logoColor=white" alt="VERSA Learning source code" />
+        <img src="https://img.shields.io/badge/SOURCE-4a1942?style=for-the-badge&logo=github&logoColor=white" alt="VERSA Learning source code" />
       </a>
     </td>
   </tr>
@@ -153,10 +153,10 @@ Click a preview to open the live project or project repository.
       </a>
       <p>A room-based online chess game built for multiplayer sessions.</p>
       <a href="https://chessroom-source.vercel.app/">
-        <img src="https://img.shields.io/badge/LIVE_DEMO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Chessroom" />
+        <img src="https://img.shields.io/badge/LIVE_DEMO-d9468f?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Chessroom" />
       </a>
       <a href="https://github.com/jhon-guiller-barenio/Chess-Game-pt-2">
-        <img src="https://img.shields.io/badge/SOURCE-172554?style=for-the-badge&logo=github&logoColor=white" alt="Chessroom source code" />
+        <img src="https://img.shields.io/badge/SOURCE-4a1942?style=for-the-badge&logo=github&logoColor=white" alt="Chessroom source code" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -166,10 +166,10 @@ Click a preview to open the live project or project repository.
       </a>
       <p>A café storefront with a connected backend and admin experience.</p>
       <a href="https://cafe-noir-xi.vercel.app/">
-        <img src="https://img.shields.io/badge/LIVE_DEMO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Cafe Noir" />
+        <img src="https://img.shields.io/badge/LIVE_DEMO-d9468f?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Cafe Noir" />
       </a>
       <a href="https://github.com/jhon-guiller-barenio/CafeNoir">
-        <img src="https://img.shields.io/badge/SOURCE-172554?style=for-the-badge&logo=github&logoColor=white" alt="Cafe Noir source code" />
+        <img src="https://img.shields.io/badge/SOURCE-4a1942?style=for-the-badge&logo=github&logoColor=white" alt="Cafe Noir source code" />
       </a>
     </td>
   </tr>
@@ -181,14 +181,14 @@ Click a preview to open the live project or project repository.
       </a>
       <p>An LM35 temperature-controlled fan with LCD feedback and Bluetooth support.</p>
       <a href="https://github.com/jhon-guiller-barenio/IOT-Based-Temperature-Controlled-SmartFan-Arduino-System">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-172554?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Fan project" />
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-4a1942?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Fan project" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🏨 Hotel Reservations</h3>
       <p>Browse rooms and manage reservation details, including check-in and check-out.</p>
       <a href="https://github.com/jhon-guiller-barenio/Hotel-Reservations">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-172554?style=for-the-badge&logo=github&logoColor=white" alt="View Hotel Reservations project" />
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-4a1942?style=for-the-badge&logo=github&logoColor=white" alt="View Hotel Reservations project" />
       </a>
     </td>
   </tr>
