@@ -183,6 +183,28 @@ Click a preview to open the live project or project repository.
     alt="Animated anime-style character gallery with sakura petals"
   />
   <br /><br />
+  <p><strong>Animated character moments</strong></p>
+  <table width="100%">
+    <tr>
+      <td align="center" width="25%">
+        <img height="120" src="https://gifdb.com/images/high/rem-re-zero-anime-wink-hhlk1x7il0fs8bjc.gif" alt="Rem from Re:Zero animated wink" /><br />
+        <sub>Rem · Re:Zero</sub>
+      </td>
+      <td align="center" width="25%">
+        <img height="120" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycjZ5aG01dGRzZ2MyOGQyeDNtZTN5Z2pqeTZpMnkxNGpldDU1cXk2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C3brYLms1bhv2/giphy.gif" alt="Luffy from One Piece celebrating" /><br />
+        <sub>Luffy · One Piece</sub>
+      </td>
+      <td align="center" width="25%">
+        <img height="120" src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2019/08/Demon-Slayer-ep20.gif?fit=850%2C478&ssl=1" alt="Tanjiro from Demon Slayer in an animated scene" /><br />
+        <sub>Tanjiro · Demon Slayer</sub>
+      </td>
+      <td align="center" width="25%">
+        <img height="120" src="https://i.makeagif.com/media/12-09-2023/-w28v0.gif" alt="Gojo from Jujutsu Kaisen preparing a technique" /><br />
+        <sub>Gojo · Jujutsu Kaisen</sub>
+      </td>
+    </tr>
+  </table>
+  <br />
   <a href="https://en.wikipedia.org/wiki/Re:Zero_%E2%88%92_Starting_Life_in_Another_World">
     <img src="https://img.shields.io/badge/%E2%9D%84%EF%B8%8F%20Re%3AZero-4c1d95?style=for-the-badge" alt="Re:Zero" />
   </a>
