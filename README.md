@@ -21,6 +21,16 @@
     <a href="https://cafe-noir-xi.vercel.app/">Cafe Noir</a> ·
     <a href="https://github.com/jhon-guiller-barenio/Hotel-Reservations">Hotel Reservations</a>
   </p>
+  <p>
+    <a href="#-developer-profile">About</a> ·
+    <a href="#-toolbox">Tech Stack</a> ·
+    <a href="#-project-gallery">Projects</a> ·
+    <a href="#-anime-corner">Anime Corner</a> ·
+    <a href="#-github-dashboard">GitHub Activity</a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=jhon-guiller-barenio&label=Profile%20views&color=ec4899&style=flat-square" alt="Profile view counter" />
+  </p>
   <table width="100%">
     <tr>
       <td align="center" bgcolor="#211327">
@@ -248,6 +258,20 @@ Click a preview to open the live project or project repository.
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon-guiller-barenio&layout=compact&hide_border=true&bg_color=090d18&title_color=22d3ee&text_color=cbd5e1"
     alt="Most used programming languages"
+  />
+</div>
+
+<div align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=jhon-guiller-barenio&theme=dark&hide_border=true&background=090d18&ring=ec4899&fire=f472b6&currStreakLabel=f9a8d4"
+    alt="GitHub contribution streak"
+  />
+  <br />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jhon-guiller-barenio&bg_color=090d18&color=f472b6&line=ec4899&point=ffffff&area=true&hide_border=true"
+    alt="GitHub contribution activity graph"
   />
 </div>
 
