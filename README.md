@@ -15,11 +15,11 @@
     <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-4a1942?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
   </a>
   <br />
-  <p>
-    <a href="https://versa-learning.vercel.app/">VERSA</a> ·
-    <a href="https://chessroom-source.vercel.app/">Chessroom</a> ·
-    <a href="https://cafe-noir-xi.vercel.app/">Cafe Noir</a> ·
-    <a href="https://github.com/jhon-guiller-barenio/Hotel-Reservations">Hotel Reservations</a>
+  <p align="center">
+    <a href="https://versa-learning.vercel.app/"><img src="https://img.shields.io/badge/VERSA-6b315f?style=for-the-badge&logo=vercel&logoColor=white" alt="Open VERSA Learning" /></a>
+    <a href="https://chessroom-source.vercel.app/"><img src="https://img.shields.io/badge/CHESSROOM-d9468f?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Open Chessroom" /></a>
+    <a href="https://cafe-noir-xi.vercel.app/"><img src="https://img.shields.io/badge/CAFE_NOIR-9d4edd?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Open Cafe Noir" /></a>
+    <a href="https://github.com/jhon-guiller-barenio/Hotel-Reservations"><img src="https://img.shields.io/badge/HOTEL_RESERVATIONS-4a1942?style=for-the-badge&logo=github&logoColor=white" alt="Open Hotel Reservations repository" /></a>
   </p>
   <p align="center">
     <a href="#-developer-profile"><img src="https://img.shields.io/badge/%F0%9F%8C%B8%20ABOUT-4a1942?style=for-the-badge" alt="About me" /></a>
