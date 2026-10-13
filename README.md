@@ -15,6 +15,12 @@
     <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-172554?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
   </a>
   <br />
+  <p>
+    <a href="https://versa-learning.vercel.app/">VERSA</a> ·
+    <a href="https://chessroom-source.vercel.app/">Chessroom</a> ·
+    <a href="https://cafe-noir-xi.vercel.app/">Cafe Noir</a> ·
+    <a href="https://github.com/jhon-guiller-barenio/Hotel-Reservations">Hotel Reservations</a>
+  </p>
   <table width="100%">
     <tr>
       <td align="center" bgcolor="#211327">
@@ -98,7 +104,7 @@ Click a preview to open the live project or project repository.
       <a href="https://jhon-guiller-barenio-portfiolio-v2.vercel.app/">
         <img width="100%" src="https://raw.githubusercontent.com/jhon-guiller-barenio/personal-portfolio-v2/main/assets/portfolio-preview.jpg" alt="Screenshot of Jhon Guiller's personal portfolio website" />
       </a>
-      <p>My portfolio featuring projects, skills, and background.</p>
+      <p>A responsive portfolio with theme switching, motion, skills, and project showcases.</p>
       <a href="https://jhon-guiller-barenio-portfiolio-v2.vercel.app/">
         <img src="https://img.shields.io/badge/OPEN_PORTFOLIO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio" />
       </a>
@@ -108,7 +114,7 @@ Click a preview to open the live project or project repository.
       <a href="https://versa-learning.vercel.app/">
         <img width="100%" src="https://image.thum.io/get/width/1000/crop/650/noanimate/https://versa-learning.vercel.app/" alt="Screenshot of the VERSA English learning website" />
       </a>
-      <p>An interactive English learning website for approachable practice.</p>
+      <p>A lesson hub with grammar, vocabulary, and pronunciation practice.</p>
       <a href="https://versa-learning.vercel.app/">
         <img src="https://img.shields.io/badge/LIVE_DEMO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open VERSA Learning" />
       </a>
@@ -123,7 +129,7 @@ Click a preview to open the live project or project repository.
       <a href="https://chessroom-source.vercel.app/">
         <img width="100%" src="https://image.thum.io/get/width/1000/crop/650/noanimate/https://chessroom-source.vercel.app/" alt="Screenshot of the Chessroom online chess game" />
       </a>
-      <p>An online chess experience with rooms for players to meet and play.</p>
+      <p>A room-based online chess game built for multiplayer sessions.</p>
       <a href="https://chessroom-source.vercel.app/">
         <img src="https://img.shields.io/badge/LIVE_DEMO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Chessroom" />
       </a>
@@ -136,7 +142,7 @@ Click a preview to open the live project or project repository.
       <a href="https://cafe-noir-xi.vercel.app/">
         <img width="100%" src="https://image.thum.io/get/width/1000/crop/650/noanimate/https://cafe-noir-xi.vercel.app/" alt="Screenshot of the Cafe Noir website" />
       </a>
-      <p>A café website with an inviting customer experience and backend features.</p>
+      <p>A café storefront with a connected backend and admin experience.</p>
       <a href="https://cafe-noir-xi.vercel.app/">
         <img src="https://img.shields.io/badge/LIVE_DEMO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Cafe Noir" />
       </a>
@@ -151,14 +157,14 @@ Click a preview to open the live project or project repository.
       <a href="https://github.com/jhon-guiller-barenio/IOT-Based-Temperature-Controlled-SmartFan-Arduino-System">
         <img width="100%" src="https://raw.githubusercontent.com/jhon-guiller-barenio/IOT-Based-Temperature-Controlled-SmartFan-Arduino-System/main/Images/Smart%20fan_bb.jpg" alt="Arduino smart fan circuit diagram" />
       </a>
-      <p>An Arduino temperature-controlled fan project with sensor, LCD, and Bluetooth components.</p>
+      <p>An LM35 temperature-controlled fan with LCD feedback and Bluetooth support.</p>
       <a href="https://github.com/jhon-guiller-barenio/IOT-Based-Temperature-Controlled-SmartFan-Arduino-System">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-172554?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Fan project" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🏨 Hotel Reservations</h3>
-      <p>A room booking project focused on browsing rooms and managing reservations.</p>
+      <p>Browse rooms and manage reservation details, including check-in and check-out.</p>
       <a href="https://github.com/jhon-guiller-barenio/Hotel-Reservations">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-172554?style=for-the-badge&logo=github&logoColor=white" alt="View Hotel Reservations project" />
       </a>
@@ -170,6 +176,13 @@ Click a preview to open the live project or project repository.
 ## 🌸 Anime Corner
 
 <div align="center">
+  <p><sub>Animated original anime-style characters with gentle bobbing, blinking, and drifting sakura.</sub></p>
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/jhon-guiller-barenio/jhon-guiller-barenio/main/assets/anime-corner.svg"
+    alt="Animated anime-style character gallery with sakura petals"
+  />
+  <br /><br />
   <a href="https://en.wikipedia.org/wiki/Re:Zero_%E2%88%92_Starting_Life_in_Another_World">
     <img src="https://img.shields.io/badge/%E2%9D%84%EF%B8%8F%20Re%3AZero-4c1d95?style=for-the-badge" alt="Re:Zero" />
   </a>
