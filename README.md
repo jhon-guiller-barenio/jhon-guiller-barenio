@@ -70,47 +70,80 @@ I enjoy building websites and applications that are practical, clear, and pleasa
   </tr>
 </table>
 
-## ✨ Selected Work
+## 🖼️ Project Gallery
+
+Click a preview to open the live project or project repository.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📘 VERSA Learning</h3>
-      <p>An English learning website built to make practice approachable and engaging.</p>
-      <a href="https://versa-learning.vercel.app/">
-        <img src="https://img.shields.io/badge/LIVE_DEMO-06b6d4?style=for-the-badge" alt="Live demo" />
+      <h3>🌐 Personal Portfolio</h3>
+      <a href="https://jhon-guiller-barenio-portfiolio-v2.vercel.app/">
+        <img width="100%" src="https://raw.githubusercontent.com/jhon-guiller-barenio/personal-portfolio-v2/main/assets/portfolio-preview.jpg" alt="Screenshot of Jhon Guiller's personal portfolio website" />
       </a>
-      <a href="https://github.com/jhon-guiller-barenio/VERSA-Learning">
-        <img src="https://img.shields.io/badge/SOURCE-172554?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
+      <p>My portfolio featuring projects, skills, and background.</p>
+      <a href="https://jhon-guiller-barenio-portfiolio-v2.vercel.app/">
+        <img src="https://img.shields.io/badge/OPEN_PORTFOLIO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>♟️ Chessroom</h3>
-      <p>An online chess experience with rooms for players to meet and play.</p>
-      <a href="https://chessroom-source.vercel.app/">
-        <img src="https://img.shields.io/badge/LIVE_DEMO-06b6d4?style=for-the-badge" alt="Live demo" />
+      <h3>📘 VERSA Learning</h3>
+      <a href="https://versa-learning.vercel.app/">
+        <img width="100%" src="https://image.thum.io/get/width/1000/crop/650/noanimate/https://versa-learning.vercel.app/" alt="Screenshot of the VERSA English learning website" />
       </a>
-      <a href="https://github.com/jhon-guiller-barenio/Chess-Game-pt-2">
-        <img src="https://img.shields.io/badge/SOURCE-172554?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
+      <p>An interactive English learning website for approachable practice.</p>
+      <a href="https://versa-learning.vercel.app/">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open VERSA Learning" />
+      </a>
+      <a href="https://github.com/jhon-guiller-barenio/VERSA-Learning">
+        <img src="https://img.shields.io/badge/SOURCE-172554?style=for-the-badge&logo=github&logoColor=white" alt="VERSA Learning source code" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>♟️ Chessroom</h3>
+      <a href="https://chessroom-source.vercel.app/">
+        <img width="100%" src="https://image.thum.io/get/width/1000/crop/650/noanimate/https://chessroom-source.vercel.app/" alt="Screenshot of the Chessroom online chess game" />
+      </a>
+      <p>An online chess experience with rooms for players to meet and play.</p>
+      <a href="https://chessroom-source.vercel.app/">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Chessroom" />
+      </a>
+      <a href="https://github.com/jhon-guiller-barenio/Chess-Game-pt-2">
+        <img src="https://img.shields.io/badge/SOURCE-172554?style=for-the-badge&logo=github&logoColor=white" alt="Chessroom source code" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
       <h3>☕ Cafe Noir</h3>
-      <p>A café website with a customer-facing experience and backend features.</p>
       <a href="https://cafe-noir-xi.vercel.app/">
-        <img src="https://img.shields.io/badge/LIVE_DEMO-06b6d4?style=for-the-badge" alt="Live demo" />
+        <img width="100%" src="https://image.thum.io/get/width/1000/crop/650/noanimate/https://cafe-noir-xi.vercel.app/" alt="Screenshot of the Cafe Noir website" />
+      </a>
+      <p>A café website with an inviting customer experience and backend features.</p>
+      <a href="https://cafe-noir-xi.vercel.app/">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Cafe Noir" />
       </a>
       <a href="https://github.com/jhon-guiller-barenio/CafeNoir">
-        <img src="https://img.shields.io/badge/SOURCE-172554?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
+        <img src="https://img.shields.io/badge/SOURCE-172554?style=for-the-badge&logo=github&logoColor=white" alt="Cafe Noir source code" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌡️ Smart Fan Arduino System</h3>
+      <a href="https://github.com/jhon-guiller-barenio/IOT-Based-Temperature-Controlled-SmartFan-Arduino-System">
+        <img width="100%" src="https://raw.githubusercontent.com/jhon-guiller-barenio/IOT-Based-Temperature-Controlled-SmartFan-Arduino-System/main/Images/Smart%20fan_bb.jpg" alt="Arduino smart fan circuit diagram" />
+      </a>
+      <p>An Arduino temperature-controlled fan project with sensor, LCD, and Bluetooth components.</p>
+      <a href="https://github.com/jhon-guiller-barenio/IOT-Based-Temperature-Controlled-SmartFan-Arduino-System">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-172554?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Fan project" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🏨 Hotel Reservations</h3>
-      <p>A room booking project for exploring rooms and managing reservations.</p>
+      <p>A room booking project focused on browsing rooms and managing reservations.</p>
       <a href="https://github.com/jhon-guiller-barenio/Hotel-Reservations">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-172554?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-172554?style=for-the-badge&logo=github&logoColor=white" alt="View Hotel Reservations project" />
       </a>
     </td>
   </tr>
