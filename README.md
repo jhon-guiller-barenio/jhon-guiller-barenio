@@ -192,6 +192,15 @@ Click a preview to open the live project or project repository.
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎧 SakuraSound — Anime OST Finder</h3>
+      <a href="https://animeostfinder.vercel.app/"><img width="100%" src="https://raw.githubusercontent.com/jhon-guiller-barenio/AnimeOstFinder/main/assets/sakura-sound-preview.jpg" alt="SakuraSound anime OST finder website preview" /></a>
+      <p>Search anime openings and endings, explore album artwork, save favorites, and play themes with a queue and one-click downloads.</p>
+      <a href="https://animeostfinder.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-ec4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Open SakuraSound" /></a>
+      <a href="https://github.com/jhon-guiller-barenio/AnimeOstFinder"><img src="https://img.shields.io/badge/SOURCE-4a1942?style=for-the-badge&logo=github&logoColor=white" alt="SakuraSound source code" /></a>
+    </td>
+  </tr>
 </table>
 
 
