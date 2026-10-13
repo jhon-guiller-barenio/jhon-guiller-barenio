@@ -29,7 +29,7 @@
     <a href="#-github-dashboard">GitHub Activity</a>
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=jhon-guiller-barenio&label=Profile%20views&color=ec4899&style=flat-square" alt="Profile view counter" />
+    <img src="https://img.shields.io/github/followers/jhon-guiller-barenio?label=GitHub%20followers&style=flat-square&color=ec4899" alt="GitHub followers" />
   </p>
   <table width="100%">
     <tr>
