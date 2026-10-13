@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a102b"/>
+      <stop offset=".52" stop-color="#431a4d"/>
+      <stop offset="1" stop-color="#8a285d"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#f9a8d4" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#f9a8d4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="petal" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fff1f7"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <path id="p" d="M0 0 C-7-8-5-19 0-23 C5-19 7-8 0 0Z"/>
+  </defs>
+  <rect width="1200" height="190" rx="18" fill="url(#sky)"/>
+  <ellipse cx="920" cy="30" rx="330" ry="180" fill="url(#glow)"/>
+  <path d="M0 150 Q170 116 340 152 T680 145 T1020 151 T1200 139 V190 H0Z" fill="#130e22" opacity=".28"/>
+  <g fill="url(#petal)" opacity=".92">
+    <g><use href="#p" x="70" y="-30"/><animateTransform attributeName="transform" type="translate" values="0 0;24 240" dur="6.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 70 -30;300 70 -30" dur="6.5s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="170" y="-110"/><animateTransform attributeName="transform" type="translate" values="0 0;-12 290" dur="8s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 170 -110;-360 170 -110" dur="8s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="290" y="-55"/><animateTransform attributeName="transform" type="translate" values="0 0;30 250" dur="7.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 290 -55;240 290 -55" dur="7.2s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="420" y="-135"/><animateTransform attributeName="transform" type="translate" values="0 0;-20 300" dur="8.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 420 -135;360 420 -135" dur="8.6s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="560" y="-70"/><animateTransform attributeName="transform" type="translate" values="0 0;25 270" dur="7.8s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 560 -70;-300 560 -70" dur="7.8s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="690" y="-125"/><animateTransform attributeName="transform" type="translate" values="0 0;-24 310" dur="9s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 690 -125;360 690 -125" dur="9s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="820" y="-45"/><animateTransform attributeName="transform" type="translate" values="0 0;22 245" dur="6.8s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 820 -45;-280 820 -45" dur="6.8s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="960" y="-95"/><animateTransform attributeName="transform" type="translate" values="0 0;-18 285" dur="8.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 960 -95;300 960 -95" dur="8.2s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="1100" y="-145"/><animateTransform attributeName="transform" type="translate" values="0 0;16 320" dur="9.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 1100 -145;360 1100 -145" dur="9.5s" repeatCount="indefinite"/></g>
+  </g>
+  <g fill="#f9a8d4" opacity=".68">
+    <circle cx="135" cy="48" r="2"/><circle cx="380" cy="32" r="1.5"/><circle cx="740" cy="58" r="2"/><circle cx="1030" cy="46" r="1.6"/>
+  </g>
+</svg>
