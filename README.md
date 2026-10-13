@@ -15,19 +15,23 @@
     <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-172554?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
   </a>
   <br />
-  <img
-    width="100%"
-    height="92"
-    src="https://i.gifer.com/origin/a2/a2dac9417971fbc76bcc0a273145d054.gif"
-    alt="Animated sakura petals falling"
-  />
+  <table width="100%">
+    <tr>
+      <td align="center" bgcolor="#211327">
+        <img
+          width="100%"
+          height="110"
+          src="https://i.gifer.com/origin/a2/a2dac9417971fbc76bcc0a273145d054.gif"
+          alt="Animated sakura petals falling across a plum background"
+        />
+      </td>
+    </tr>
+  </table>
   <br />
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=EC4899&center=true&vCenter=true&width=520&lines=Computer+Science+graduate;Building+web+experiences;Anime+fan+%E2%80%A2+Sakura+season"
     alt="Animated introduction"
   />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=jhon-guiller-barenio&label=PROFILE%20VIEWS&color=ec4899&style=flat-square" alt="Profile views" />
 </div>
 
 <br />
