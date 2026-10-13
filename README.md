@@ -2,7 +2,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1942,45:9d4edd,100:f472b6&height=240&section=header&text=Jhon%20Guiller&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20PORTFOLIO%20%7C%20SAKURA%20SEASON&descSize=14&descColor=ffe4f1&descAlignY=58"
     width="100%"
-    alt="Jhon Guiller developer portfolio banner"
+    alt="Jhon Guiller developer  banner"
   />
 
   <p><strong>Computer Science graduate · Web developer · Lifelong learner</strong></p>
