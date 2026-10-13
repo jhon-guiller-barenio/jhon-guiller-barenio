@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#24152e"/>
+      <stop offset=".5" stop-color="#54244f"/>
+      <stop offset="1" stop-color="#24152e"/>
+    </linearGradient>
+    <linearGradient id="petal" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fff1f7"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <path id="p" d="M0 0C-4-5-3-11 0-14C3-11 4-5 0 0Z"/>
+  </defs>
+  <rect width="1200" height="64" rx="14" fill="url(#bg)"/>
+  <path d="M0 45Q150 28 300 45T600 43T900 45T1200 39V64H0Z" fill="#130e22" opacity=".35"/>
+  <g fill="url(#petal)" opacity=".9">
+    <g><use href="#p" x="90" y="20"/><animateTransform attributeName="transform" type="translate" values="0 -28;18 74" dur="5.8s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 90 20;300 90 20" dur="5.8s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="270" y="16"/><animateTransform attributeName="transform" type="translate" values="0 -34;-12 78" dur="7s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 270 16;-320 270 16" dur="7s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="455" y="28"/><animateTransform attributeName="transform" type="translate" values="0 -30;15 78" dur="6.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 455 28;280 455 28" dur="6.4s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="640" y="12"/><animateTransform attributeName="transform" type="translate" values="0 -28;-18 76" dur="7.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 640 12;-300 640 12" dur="7.5s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="825" y="24"/><animateTransform attributeName="transform" type="translate" values="0 -32;14 76" dur="6.8s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 825 24;330 825 24" dur="6.8s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="1010" y="15"/><animateTransform attributeName="transform" type="translate" values="0 -30;-16 78" dur="7.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 1010 15;-280 1010 15" dur="7.2s" repeatCount="indefinite"/></g>
+    <g><use href="#p" x="1140" y="30"/><animateTransform attributeName="transform" type="translate" values="0 -34;12 76" dur="6.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 1140 30;300 1140 30" dur="6.2s" repeatCount="indefinite"/></g>
+  </g>
+  <g fill="#f9a8d4" opacity=".7"><circle cx="180" cy="22" r="1.5"/><circle cx="380" cy="40" r="1.5"/><circle cx="735" cy="19" r="1.5"/><circle cx="930" cy="43" r="1.5"/></g>
+</svg>
