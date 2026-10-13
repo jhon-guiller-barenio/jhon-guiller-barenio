@@ -176,11 +176,11 @@ Click a preview to open the live project or project repository.
 ## 🌸 Anime Corner
 
 <div align="center">
-  <p><sub>Animated original anime-style characters with gentle bobbing, blinking, and drifting sakura.</sub></p>
+  <p><sub>Ai Hoshino · Oshi no Ko — her starry eyes opening in a looping GIF.</sub></p>
   <img
     width="100%"
-    src="https://raw.githubusercontent.com/jhon-guiller-barenio/jhon-guiller-barenio/main/assets/anime-corner.svg"
-    alt="Animated anime-style character gallery with sakura petals"
+    src="https://media1.tenor.com/m/9GtYOAcWbzYAAAAd/oshi-no-ko-anime.gif"
+    alt="Ai Hoshino from Oshi no Ko opening her starry eyes"
   />
   <br /><br />
   <p><strong>Animated character moments</strong></p>
