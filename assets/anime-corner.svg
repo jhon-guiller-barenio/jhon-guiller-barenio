@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#171126"/><stop offset=".55" stop-color="#351540"/><stop offset="1" stop-color="#681f54"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#ffe4d6"/><stop offset="1" stop-color="#f4b9a6"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fbcfe8"/><stop offset="1" stop-color="#e879b9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <text x="600" y="37" text-anchor="middle" fill="#fce7f3" font-family="Verdana, sans-serif" font-size="17" font-weight="700" letter-spacing="3">ANIME CORNER  ✦  RE:ZERO · NARUTO · ONE PIECE · DEMON SLAYER</text>
+  <path d="M60 244 Q300 206 600 244 T1140 238" fill="none" stroke="#f9a8d4" stroke-opacity=".18" stroke-width="2"/>
+  <g fill="#fbcfe8" opacity=".8">
+    <circle cx="70" cy="97" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="86" r="4"><animate attributeName="opacity" values="1;.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="590" cy="72" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.1s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- Chibi 1: moonlit mage -->
+  <g transform="translate(170 85)">
+    <animateTransform attributeName="transform" type="translate" values="170 85;170 79;170 85" dur="2.4s" repeatCount="indefinite"/>
+    <path d="M-48 112 Q-42 72 0 67 Q42 72 48 112Z" fill="#d8b4fe"/>
+    <path d="M-34 90 L0 107 L34 90 L41 119 L-41 119Z" fill="#8b5cf6"/>
+    <ellipse cy="13" rx="42" ry="48" fill="#f4c5b4"/>
+    <path d="M-44 9 Q-53-52-4-55 Q43-56 45 0 L24-18 L12-46 L-2-22 L-29-35Z" fill="#e5e7eb"/>
+    <path d="M-42 9 Q-34-10-24-8 L-19 45 Q-42 46-45 20Z" fill="#d1d5db"/>
+    <ellipse cx="-15" cy="16" rx="8" ry="10" fill="#fff"/><ellipse cx="15" cy="16" rx="8" ry="10" fill="#fff"/>
+    <ellipse cx="-14" cy="18" rx="3.4" ry="6" fill="#7c3aed"/><ellipse cx="16" cy="18" rx="3.4" ry="6" fill="#7c3aed"/>
+    <path d="M-23 5 Q-15 1-8 5 M8 5 Q16 1 24 5" fill="none" stroke="#67505b" stroke-width="3" stroke-linecap="round"/>
+    <path d="M-4 34 Q0 37 4 34" fill="none" stroke="#9f5267" stroke-width="2" stroke-linecap="round"/>
+    <path d="M-24 16 Q-15 28-7 16 M7 16 Q15 28 23 16" fill="none" stroke="#f4c5b4" stroke-width="3">
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.43;.47;.51;1" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-15 16 Q-14 18-13 16 M13 16 Q14 18 15 16" fill="none" stroke="#7c3aed" stroke-width="4" stroke-linecap="round">
+      <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;.43;.47;.51;1" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-34 69 Q-55 76-58 95 M34 69 Q55 76 58 95" fill="none" stroke="#f9a8d4" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="-55" cy="94" r="6" fill="#fbcfe8"/>
+  </g>
+  <!-- Chibi 2: bright ninja -->
+  <g transform="translate(455 86)">
+    <animateTransform attributeName="transform" type="translate" values="455 86;455 80;455 86" dur="2.1s" begin=".4s" repeatCount="indefinite"/>
+    <path d="M-48 112 Q-42 72 0 67 Q42 72 48 112Z" fill="#fb923c"/>
+    <path d="M-33 88 L0 103 L33 88 L40 119 L-40 119Z" fill="#2563eb"/>
+    <ellipse cy="14" rx="42" ry="48" fill="#e9b397"/>
+    <path d="M-46-4 Q-42-53 0-52 Q43-52 47-4 L36-16 L24-8 L14-27 L-1-15 L-20-28 L-34-10Z" fill="#f59e0b"/>
+    <path d="M-37-16 Q0-34 37-16 L34-4 Q0-16-34-4Z" fill="#334155"/>
+    <rect x="-24" y="-17" width="48" height="13" rx="4" fill="#94a3b8"/>
+    <path d="M-11-12 L-4-12 L0-9 L4-12 L11-12" fill="none" stroke="#334155" stroke-width="2"/>
+    <ellipse cx="-15" cy="18" rx="8" ry="9" fill="#fff"/><ellipse cx="15" cy="18" rx="8" ry="9" fill="#fff"/>
+    <ellipse cx="-14" cy="20" rx="3" ry="5" fill="#2563eb"/><ellipse cx="16" cy="20" rx="3" ry="5" fill="#2563eb"/>
+    <path d="M-23 7 Q-15 3-8 7 M8 7 Q16 3 24 7" fill="none" stroke="#684637" stroke-width="3" stroke-linecap="round"/>
+    <path d="M-7 36 Q0 43 8 36" fill="none" stroke="#8c4c48" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M-23 17 Q-15 28-7 17 M7 17 Q15 28 23 17" fill="none" stroke="#e9b397" stroke-width="3">
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.43;.47;.51;1" dur="3.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-15 17 Q-14 19-13 17 M13 17 Q14 19 15 17" fill="none" stroke="#2563eb" stroke-width="4" stroke-linecap="round">
+      <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;.43;.47;.51;1" dur="3.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-38 35 l-10 3 M38 35 l10 3 M-38 46 l-10 3 M38 46 l10 3" stroke="#9f1239" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <!-- Chibi 3: straw-hat adventurer -->
+  <g transform="translate(745 86)">
+    <animateTransform attributeName="transform" type="translate" values="745 86;745 81;745 86" dur="2.5s" begin=".8s" repeatCount="indefinite"/>
+    <path d="M-48 112 Q-42 72 0 67 Q42 72 48 112Z" fill="#f87171"/>
+    <path d="M-32 89 L0 105 L32 89 L40 119 L-40 119Z" fill="#dc2626"/>
+    <ellipse cy="14" rx="42" ry="48" fill="#f3c4a4"/>
+    <ellipse cy="-30" rx="54" ry="13" fill="#fbbf24"/>
+    <path d="M-35-27 Q-28-57 0-59 Q28-57 35-27Z" fill="#fbbf24"/>
+    <path d="M-34-28 Q0-18 34-28" fill="none" stroke="#b45309" stroke-width="5"/>
+    <ellipse cx="-15" cy="18" rx="8" ry="9" fill="#fff"/><ellipse cx="15" cy="18" rx="8" ry="9" fill="#fff"/>
+    <ellipse cx="-14" cy="20" rx="3.4" ry="5.5" fill="#7c3aed"/><ellipse cx="16" cy="20" rx="3.4" ry="5.5" fill="#7c3aed"/>
+    <path d="M-23 7 Q-15 3-8 7 M8 7 Q16 3 24 7" fill="none" stroke="#704b3d" stroke-width="3" stroke-linecap="round"/>
+    <path d="M-8 35 Q0 45 9 35" fill="none" stroke="#a34346" stroke-width="3" stroke-linecap="round"/>
+    <path d="M-23 17 Q-15 28-7 17 M7 17 Q15 28 23 17" fill="none" stroke="#f3c4a4" stroke-width="3">
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.43;.47;.51;1" dur="4.3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-15 17 Q-14 19-13 17 M13 17 Q14 19 15 17" fill="none" stroke="#7c3aed" stroke-width="4" stroke-linecap="round">
+      <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;.43;.47;.51;1" dur="4.3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-35 73 Q-50 83-54 100 M35 73 Q50 83 54 100" fill="none" stroke="#fca5a5" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <!-- Chibi 4: flame swordsman -->
+  <g transform="translate(1030 86)">
+    <animateTransform attributeName="transform" type="translate" values="1030 86;1030 80;1030 86" dur="2.2s" begin="1.2s" repeatCount="indefinite"/>
+    <path d="M-48 112 Q-42 72 0 67 Q42 72 48 112Z" fill="#34d399"/>
+    <path d="M-35 88 L0 103 L35 88 L41 119 L-41 119Z" fill="#166534"/>
+    <ellipse cy="14" rx="42" ry="48" fill="url(#skin)"/>
+    <path d="M-45 7 Q-53-42-9-55 Q29-65 48-17 L35-18 L31-2 L18-20 L6-3 L-6-25 L-21-5 L-34-16Z" fill="#7f1d1d"/>
+    <path d="M-45-6 Q-28-16-10-9 M-45-1 L-30 1 M-41 5 L-26 7" stroke="#fbbf24" stroke-width="4"/>
+    <ellipse cx="-15" cy="18" rx="8" ry="9" fill="#fff"/><ellipse cx="15" cy="18" rx="8" ry="9" fill="#fff"/>
+    <ellipse cx="-14" cy="20" rx="3.4" ry="5.5" fill="#059669"/><ellipse cx="16" cy="20" rx="3.4" ry="5.5" fill="#059669"/>
+    <path d="M-23 7 Q-15 3-8 7 M8 7 Q16 3 24 7" fill="none" stroke="#6c3e34" stroke-width="3" stroke-linecap="round"/>
+    <path d="M-5 36 Q0 39 5 36" fill="none" stroke="#a54c54" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M-23 17 Q-15 28-7 17 M7 17 Q15 28 23 17" fill="none" stroke="#f4c5b4" stroke-width="3">
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.43;.47;.51;1" dur="3.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-15 17 Q-14 19-13 17 M13 17 Q14 19 15 17" fill="none" stroke="#059669" stroke-width="4" stroke-linecap="round">
+      <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;.43;.47;.51;1" dur="3.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M35 62 l21-52" stroke="#e5e7eb" stroke-width="5" stroke-linecap="round"/><path d="M43 44 l10 5" stroke="#fbbf24" stroke-width="4"/>
+  </g>
+  <g fill="#f9a8d4" opacity=".75">
+    <path d="M293 110 q8-7 14 0 q-7 7-14 0Z"><animateTransform attributeName="transform" type="translate" values="0 0;90 115" dur="7s" repeatCount="indefinite"/></path>
+    <path d="M910 120 q8-7 14 0 q-7 7-14 0Z"><animateTransform attributeName="transform" type="translate" values="0 0;-90 115" dur="8s" repeatCount="indefinite"/></path>
+  </g>
+  <text x="600" y="260" text-anchor="middle" fill="#fbcfe8" font-family="Verdana, sans-serif" font-size="15" letter-spacing="2">A LITTLE ANIME MAGIC, A LOT OF HEART ✨</text>
+</svg>
