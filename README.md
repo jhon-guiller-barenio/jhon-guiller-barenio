@@ -20,9 +20,8 @@
       <td align="center" bgcolor="#211327">
         <img
           width="100%"
-          height="110"
-          src="https://i.gifer.com/origin/a2/a2dac9417971fbc76bcc0a273145d054.gif"
-          alt="Animated sakura petals falling across a plum background"
+          src="https://raw.githubusercontent.com/jhon-guiller-barenio/jhon-guiller-barenio/main/assets/sakura-fall.svg"
+          alt="Animated sakura petals falling over a plum and pink gradient"
         />
       </td>
     </tr>
@@ -172,7 +171,7 @@ Click a preview to open the live project or project repository.
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/Re:Zero_%E2%88%92_Starting_Life_in_Another_World">
-    <img height="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_logo.svg/320px-Re_Zero_kara_Hajimeru_Isekai_Seikatsu_logo.svg.png" alt="Re:Zero logo" />
+    <img src="https://img.shields.io/badge/%E2%9D%84%EF%B8%8F%20Re%3AZero-4c1d95?style=for-the-badge" alt="Re:Zero" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/%F0%9F%8D%A5%20Naruto-f97316?style=for-the-badge" alt="Naruto" />
@@ -194,14 +193,6 @@ Click a preview to open the live project or project repository.
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon-guiller-barenio&layout=compact&hide_border=true&bg_color=090d18&title_color=22d3ee&text_color=cbd5e1"
     alt="Most used programming languages"
-  />
-</div>
-
-<div align="center">
-  <img
-    width="96%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jhon-guiller-barenio&bg_color=090d18&color=94a3b8&line=06b6d4&point=22d3ee&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
   />
 </div>
 
