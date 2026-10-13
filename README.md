@@ -271,7 +271,7 @@ Click a preview to open the live project or project repository.
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img
       width="100%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=jhon-guiller-barenio&theme=react-dark"
+      src="https://ghchart.xqsit94.in/dark:ec4899/jhon-guiller-barenio"
       alt="GitHub contribution activity graph"
     />
   </a>
