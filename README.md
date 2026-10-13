@@ -60,9 +60,17 @@
 
 ## 🧑‍💻 Developer Profile
 
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/jhon-guiller-barenio/jhon-guiller-barenio/main/assets/sakura-divider.svg" alt="Animated falling sakura petals" />
+</div>
+
 I enjoy building websites and applications that are practical, clear, and pleasant to use. Each project is a chance to learn something new and make the experience better.
 
 ## 🧩 Toolbox
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/jhon-guiller-barenio/jhon-guiller-barenio/main/assets/sakura-divider.svg" alt="Animated falling sakura petals" />
+</div>
 
 <table>
   <tr>
@@ -94,6 +102,10 @@ I enjoy building websites and applications that are practical, clear, and pleasa
 </table>
 
 ## 🖼️ Project Gallery
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/jhon-guiller-barenio/jhon-guiller-barenio/main/assets/sakura-divider.svg" alt="Animated falling sakura petals" />
+</div>
 
 Click a preview to open the live project or project repository.
 
@@ -176,6 +188,10 @@ Click a preview to open the live project or project repository.
 ## 🌸 Anime Corner
 
 <div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/jhon-guiller-barenio/jhon-guiller-barenio/main/assets/sakura-divider.svg" alt="Animated falling sakura petals" />
+</div>
+
+<div align="center">
   <p><sub>Ai Hoshino · Oshi no Ko — her starry eyes opening in a looping GIF.</sub></p>
   <img
     width="100%"
@@ -217,6 +233,10 @@ Click a preview to open the live project or project repository.
 </div>
 
 ## 📈 GitHub Dashboard
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/jhon-guiller-barenio/jhon-guiller-barenio/main/assets/sakura-divider.svg" alt="Animated falling sakura petals" />
+</div>
 
 <div align="center">
   <img
