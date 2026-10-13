@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:090d18,50:10264a,100:06b6d4&height=240&section=header&text=Jhon%20Guiller&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20PORTFOLIO&descSize=14&descColor=a5f3fc&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1942,45:9d4edd,100:f472b6&height=240&section=header&text=Jhon%20Guiller&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20PORTFOLIO%20%7C%20SAKURA%20SEASON&descSize=14&descColor=ffe4f1&descAlignY=58"
     width="100%"
     alt="Jhon Guiller developer portfolio banner"
   />
@@ -14,6 +14,20 @@
   <a href="https://github.com/jhon-guiller-barenio?tab=repositories">
     <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-172554?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
   </a>
+  <br />
+  <img
+    width="100%"
+    height="92"
+    src="https://i.gifer.com/origin/a2/a2dac9417971fbc76bcc0a273145d054.gif"
+    alt="Animated sakura petals falling"
+  />
+  <br />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=EC4899&center=true&vCenter=true&width=520&lines=Computer+Science+graduate;Building+web+experiences;Anime+fan+%E2%80%A2+Sakura+season"
+    alt="Animated introduction"
+  />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=jhon-guiller-barenio&label=PROFILE%20VIEWS&color=ec4899&style=flat-square" alt="Profile views" />
 </div>
 
 <br />
@@ -148,6 +162,21 @@ Click a preview to open the live project or project repository.
     </td>
   </tr>
 </table>
+
+
+## 🌸 Anime Corner
+
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/Re:Zero_%E2%88%92_Starting_Life_in_Another_World">
+    <img height="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_logo.svg/320px-Re_Zero_kara_Hajimeru_Isekai_Seikatsu_logo.svg.png" alt="Re:Zero logo" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/%F0%9F%8D%A5%20Naruto-f97316?style=for-the-badge" alt="Naruto" />
+  <img src="https://img.shields.io/badge/%E2%98%A0%EF%B8%8F%20One%20Piece-0f172a?style=for-the-badge" alt="One Piece" />
+  <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20Demon%20Slayer-dc2626?style=for-the-badge" alt="Demon Slayer" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%80%20Jujutsu%20Kaisen-7c3aed?style=for-the-badge" alt="Jujutsu Kaisen" />
+  <p><sub>Anime worlds, memorable characters, and a little sakura magic.</sub></p>
+</div>
 
 ## 📈 GitHub Dashboard
 
